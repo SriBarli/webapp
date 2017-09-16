@@ -7,7 +7,7 @@
   <parent>
   	<artifactId>parent</artifactId>
   	<groupId>org.sonatype.mavenbook.simpleweb</groupId>
-  	<version>{version}</version>
+  	<version>${version}</version>
   </parent>
   <artifactId>simple-webapp</artifactId>
   <packaging>war</packaging>
